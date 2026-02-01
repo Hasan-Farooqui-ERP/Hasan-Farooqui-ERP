@@ -19,3 +19,19 @@ I am a Technical Project Leader specializing in the architectural logic of Enter
 ## 📫 Connect with me
 - [LinkedIn](http://www.linkedin.com/in/hasan-farooqui-046b967)
 - [Email](farooqui.hasan@gmail.com)
+
+---
+  ```mermaid
+  
+  graph TD
+    A[Requirement Gathering] --> B[Initial Test Case: AA-00-22-01]
+    B --> C{SIT/UAT Iterations}
+    C -->|Gap Identified| D[Functional Logic Refinement]
+    D --> E[Re-Testing Series: AA-01-22-XX]
+    E --> C
+    C -->|Validation Complete| F[Final Sign-off: AA-01-22-86]
+    F --> G[Controlled Transition to BAU]
+    
+    style F fill:#28a745,stroke:#fff,color:#fff
+
+    ```
