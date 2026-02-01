@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hasan Farooqui 👋
+### Senior ERP Functional Consultant | PMP® | Lean Six Sigma Black Belt
 
-<!--
-**Hasan-Farooqui-ERP/Hasan-Farooqui-ERP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Technical Project Leader specializing in the architectural logic of Enterprise Systems. My career spans from building core mobile applications to governing Greenfield ERP implementations in highly regulated sectors.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Project Pillars
+- **[SAP PS Greenfield Implementation](link-to-repo):** Managed 86+ iterative test cycles (AA-01-22-86) for global manufacturing rollouts.
+- **[National Asset Transformation](link-to-repo):** Led data integrity for Uisce Éireann infrastructure migrations under NIS Directive.
+- **[AI & GovTech Innovation](link-to-repo):** Deployed NLP Chatbots for banking and TAT-reducing mobile solutions for government officers.
+- **[Technical Foundations](link-to-repo):** Full-stack roots in Android and CMS development with a focus on User Adoption & Hypercare.
+
+## 🛠️ Tech Stack & Governance
+- **ERP:** SAP S/4HANA (PS, FICO, MM), D365 Business Central (MB-800 Candidate).
+- **PM/Ops:** PMP® Methodology, Lean Six Sigma (KPMG Black Belt), ITIL 4.
+- **Data:** SQL, Power BI, Azure Cloud, Power Platform.
+
+## 📫 Connect with me
+- [LinkedIn](http://www.linkedin.com/in/hasan-farooqui-046b967)
+- [Email](farooqui.hasan@gmail.com)
