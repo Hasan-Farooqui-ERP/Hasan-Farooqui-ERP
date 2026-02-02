@@ -7,10 +7,13 @@ I am a Technical Project Leader specializing in the architectural logic of Enter
 
 ## 🏗️ Key Project Pillars
 
-* **[SAP S/4HANA Greenfield Implementation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture)**: Managed 86+ iterative test cycles (AA-01-22-01) for global manufacturing rollouts.
-* **[National Asset Transformation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture)**: Led data integrity for Uisce Éireann infrastructure migrations under NIS Directive.
-* **[AI & GovTech Innovation](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance)**: Deployed NLP chatbots for banking and TAT-reducing mobile solutions for government officers.
-* **[Technical Foundations](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance)**: Full-stack roots in Android and CMS development with a focus on User Adoption & Hypercare.
+* **[SAP S/4HANA Greenfield Implementation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture/blob/main/hierarchy-logic.md)**: Managed 86+ iterative test cycles for global manufacturing rollouts (Direct link to Data Hierarchy Logic).
+* **[National Asset Transformation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture/blob/main/README.md)**: Led data integrity for Uisce Éireann infrastructure migrations under NIS Directive.
+* **[AI & GovTech Innovation](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance/blob/main/tpm%20process%20flow.md)**: View the "Zero-to-One" process flow and NLP chatbot deployment strategy.
+* **[Technical Foundations](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance/blob/main/README.md)**: Full-stack roots in Android and CMS development with a focus on User Adoption & Hypercare.
+
+---
+
 ## 🛠️ Tech Stack & Governance
 - **ERP:** SAP S/4HANA (PS, FICO, MM), D365 Business Central (MB-800 Candidate).
 - **PM/Ops:** PMP® Methodology, Lean Six Sigma (KPMG Black Belt), ITIL 4.
