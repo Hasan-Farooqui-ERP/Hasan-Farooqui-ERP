@@ -5,12 +5,12 @@ I am a Technical Project Leader specializing in the architectural logic of Enter
 
 ---
 
-## 🚀 Key Project Pillars
-- **[SAP PS Greenfield Implementation](link-to-repo):** Managed 86+ iterative test cycles (AA-01-22-86) for global manufacturing rollouts.
-- **[National Asset Transformation](link-to-repo):** Led data integrity for Uisce Éireann infrastructure migrations under NIS Directive.
-- **[AI & GovTech Innovation](link-to-repo):** Deployed NLP Chatbots for banking and TAT-reducing mobile solutions for government officers.
-- **[Technical Foundations](link-to-repo):** Full-stack roots in Android and CMS development with a focus on User Adoption & Hypercare.
+## 🏗️ Key Project Pillars
 
+* **[SAP S/4HANA Greenfield Implementation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture)**: Managed 86+ iterative test cycles (AA-01-22-01) for global manufacturing rollouts.
+* **[National Asset Transformation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture)**: Led data integrity for Uisce Éireann infrastructure migrations under NIS Directive.
+* **[AI & GovTech Innovation](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance)**: Deployed NLP chatbots for banking and TAT-reducing mobile solutions for government officers.
+* **[Technical Foundations](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance)**: Full-stack roots in Android and CMS development with a focus on User Adoption & Hypercare.
 ## 🛠️ Tech Stack & Governance
 - **ERP:** SAP S/4HANA (PS, FICO, MM), D365 Business Central (MB-800 Candidate).
 - **PM/Ops:** PMP® Methodology, Lean Six Sigma (KPMG Black Belt), ITIL 4.
