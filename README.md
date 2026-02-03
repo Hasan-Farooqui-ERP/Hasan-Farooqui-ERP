@@ -7,7 +7,7 @@ I am a Technical Project Leader specializing in the architectural logic of Enter
 
 ## 🏗️ Key Project Pillars
 
-* **[SAP S4 S/4HANA Greenfield Implementation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture.md)**: Managed 86+ iterative test cycles (AA-01-22-01) for global manufacturing rollouts.
+* **[SAP S/4HANA Greenfield Implementation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture/blob/main/hierarchy-logic.md)**: Managed 86+ iterative test cycles for global manufacturing rollouts (Direct link to Data Hierarchy Logic).
 * **[National Asset Transformation](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture)**: Led data integrity for Uisce Éireann infrastructure migrations under NIS Directive.
 * **[AI & GovTech Innovation](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance)**: Deployed NLP chatbots for banking and TAT-reducing mobile solutions for government officers.
 * **[Technical Foundations](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance)**: Full-stack roots in Android and CMS development with a focus on User Adoption & Hypercare.
