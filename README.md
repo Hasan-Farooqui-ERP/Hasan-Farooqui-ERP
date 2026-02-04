@@ -24,6 +24,7 @@ I am a Technical Project Leader specializing in the architectural logic of Enter
 - [Email](farooqui.hasan@gmail.com)
 
 ---
+
   ```mermaid
   
   graph TD
@@ -35,6 +36,4 @@ I am a Technical Project Leader specializing in the architectural logic of Enter
     C -->|Validation Complete| F[Final Sign-off: AA-01-22-86]
     F --> G[Controlled Transition to BAU]
     
-    style F fill:#28a745,stroke:#fff,color:#fff
-
-    ```
+    style F fill:#28a745,stroke:#fff,color:#fff```
