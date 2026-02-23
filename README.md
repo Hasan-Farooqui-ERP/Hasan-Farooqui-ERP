@@ -1,7 +1,7 @@
 # Hi, I'm Hasan Farooqui 👋
 ### ERP Functional Consultant | PMP® | Lean Six Sigma Black Belt
 
-I am a Technical Project Leader specializing in the architectural logic of Enterprise Systems. My career spans from building core mobile applications to governing Greenfield ERP implementations in highly regulated sectors. I bridge the gap between complex business requirements and scalable, audit-ready ERP solutions.
+I am an ERP specialist focused on the functional logic and architectural design of Enterprise Systems. My experience ranges from developing mobile applications to implementing Greenfield ERP solutions in highly regulated sectors. I specialize in aligning complex business requirements with scalable, audit-ready configurations in **Dynamics 365 Business Central**.
 
 ---
 
