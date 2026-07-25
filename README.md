@@ -1,5 +1,5 @@
 # Hi, I'm Hasan Farooqui 👋
-### ERP Functional Consultant | PMP® | Lean Six Sigma Black Belt
+### ERP Functional Consultant | Lean Six Sigma Black Belt
 
 I am an ERP specialist focused on the functional logic and architectural design of Enterprise Systems. My experience ranges from developing mobile applications to implementing Greenfield ERP solutions in highly regulated sectors. I specialize in aligning complex business requirements with scalable, audit-ready configurations in **Dynamics 365 Business Central**.
 
@@ -28,7 +28,7 @@ I am an ERP specialist focused on the functional logic and architectural design 
 
 ## 🛠️ Tech Stack & Governance
 - **ERP:** D365 Business Central, SAP S/4HANA (PS, FICO, MM).
-- **PM/Ops:** PMP® Methodology, Lean Six Sigma (KPMG Black Belt), ITIL 4.
+- **PM/Ops:** PMI Methodology, Lean Six Sigma (KPMG Black Belt), ITIL 4.
 - **Methodology:** [PMO Governance Toolkit](https://github.com/Hasan-Farooqui-ERP/PMO-Governance-Toolkit) (FRDs, UAT, Change Management).
 - **Data/Cloud:** SQL, Power BI, Azure Cloud, Power Platform.
 
